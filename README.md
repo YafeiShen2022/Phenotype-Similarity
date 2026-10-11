@@ -1,4 +1,4 @@
-#Supplementary materials for manuscript “Integration of Univariate and Joint Abnormalities Aids the Prioritization of Candidate Gene-Disease Associations”
+# Supplementary materials for manuscript “Integration of Univariate and Joint Abnormalities Aids the Prioritization of Candidate Gene-Disease Associations”
 
 File S1: ODBAE codes and parametrs
 
