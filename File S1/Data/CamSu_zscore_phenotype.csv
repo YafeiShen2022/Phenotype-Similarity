@@ -1,0 +1,976 @@
+gene_symbol,parameter_name,decrease_ratio,mp_term_name,mp_term_id
+Drd1a,Body weight,1,decreased body weight,MP:0001262
+Drd1a,Body Weight,1,decreased body weight,MP:0001262
+Drd1a,Body weight after experiment,1,decreased body weight,MP:0001262
+Sned1,Body weight,1,decreased body weight,MP:0001262
+Sned1,Forelimb and hindlimb grip strength measurement mean,1,decreased grip strength,MP:0010053
+Sned1,Body weight,1,decreased body weight,MP:0001262
+Sned1,Fat mass,1,decreased total body fat amount,MP:0010025
+Sned1,Body Weight,1,decreased body weight,MP:0001262
+Sned1,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Sned1,Body weight,1,decreased body weight,MP:0001262
+Sned1,Total protein,1,decreased circulating total protein level,MP:0005567
+Sned1,Body Weight,1,decreased body weight,MP:0001262
+Sned1,Tail Length,1,short tail,MP:0000592
+Sned1,Body weight before experiment,1,decreased body weight,MP:0001262
+Sned1,Body weight after experiment,1,decreased body weight,MP:0001262
+Jkamp,Body weight,1,decreased body weight,MP:0001262
+Jkamp,Sodium,1,decreased circulating sodium level,MP:0005634
+Jkamp,Potassium,1,decreased circulating potassium level,MP:0005628
+Jkamp,Chloride,1,decreased circulating chloride level,MP:0003020
+Jkamp,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Jkamp,Total protein,1,decreased circulating total protein level,MP:0005567
+Jkamp,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Jkamp,Calcium,1,decreased circulating calcium level,MP:0000195
+Jkamp,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Jkamp,Aspartate aminotransferase,0.666666667,abnormal circulating aspartate transaminase level,MP:0000203
+Jkamp,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Jkamp,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Jkamp,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Jkamp,Glucose,1,decreased circulating glucose level,MP:0005560
+Jkamp,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+Jkamp,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Jkamp,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Jkamp,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Jkamp,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Jkamp,Body Weight,1,decreased body weight,MP:0001262
+Jkamp,Body weight before experiment,1,decreased body weight,MP:0001262
+Jkamp,Rectal Temperature,1,decreased body temperature,MP:0005534
+Jkamp,right paw withdrawal threshold size 5,1,decreased thermal nociceptive threshold,MP:0003998
+Jkamp,right paw withdrawal threshold size 7,1,decreased thermal nociceptive threshold,MP:0003998
+Gm17266,Body weight,0,increased body weight,MP:0001260
+Gm17266,Body weight,0,increased body weight,MP:0001260
+Gm17266,Body Weight,0,increased body weight,MP:0001260
+Gm17266,Body weight before experiment,0,increased body weight,MP:0001260
+Sema7a,Body weight,0,increased body weight,MP:0001260
+Sema7a,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Sema7a,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Sema7a,Total cholesterol,0.5,abnormal circulating cholesterol level,MP:0000180
+Sema7a,HDL-cholesterol,0.5,abnormal circulating HDL cholesterol level,MP:0000184
+Sema7a,Body Weight,0,increased body weight,MP:0001260
+Zc3h12a,Body weight,0.25,abnormal body weight,MP:0001259
+Zc3h12a,Body Weight,0,increased body weight,MP:0001260
+Zc3h12a,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Zc3h12a,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Zc3h12a,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Zc3h12a,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Zc3h12a,Sodium,0,increased circulating sodium level,MP:0005633
+Zc3h12a,Potassium,0,increased circulating potassium level,MP:0005627
+Zc3h12a,Chloride,0,increased circulating chloride level,MP:0003019
+Zc3h12a,Body Weight,0.25,abnormal body weight,MP:0001259
+Acss1,Body weight,1,decreased body weight,MP:0001262
+Acss1,Body weight,1,decreased body weight,MP:0001262
+Acss1,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Acss1,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Acss1,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Acss1,Body Weight,1,decreased body weight,MP:0001262
+Acss1,Body weight before experiment,1,decreased body weight,MP:0001262
+Acss1,Rectal Temperature,1,decreased body temperature,MP:0005534
+Lrrc42,Forelimb grip strength measurement mean,0,increased grip strength,MP:0010052
+Lrrc42,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Carm1,Forelimb grip strength measurement mean,0.75,abnormal grip strength,MP:0001515
+Carm1,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Carm1,Potassium,1,decreased circulating potassium level,MP:0005628
+Tmprss11b,Forelimb grip strength measurement mean,0.5,abnormal grip strength,MP:0001515
+Tmprss11b,Forelimb grip strength normalised against body weight,0.5,abnormal grip strength,MP:0001515
+Tnfaip8l2,Forelimb grip strength measurement mean,0,increased grip strength,MP:0010052
+Tnfaip8l2,Sodium,1,decreased circulating sodium level,MP:0005634
+Tnfaip8l2,Potassium,1,decreased circulating potassium level,MP:0005628
+Tnfaip8l2,Chloride,1,decreased circulating chloride level,MP:0003020
+Tnfaip8l2,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Tnfaip8l2,Total protein,1,decreased circulating total protein level,MP:0005567
+Tnfaip8l2,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Tnfaip8l2,Calcium,1,decreased circulating calcium level,MP:0000195
+Tnfaip8l2,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Tnfaip8l2,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Tnfaip8l2,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Tnfaip8l2,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Tnfaip8l2,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Tnfaip8l2,Glucose,1,decreased circulating glucose level,MP:0005560
+Tnfaip8l2,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Tnfaip8l2,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Tnfaip8l2,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Tnfaip8l2,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Tnfaip8l2,Tail Length,0,abnormal tail length,MP:0011999
+Tnfaip8l2,Body Length,1,decreased body length,MP:0001258
+Serpinb6b,Forelimb grip strength measurement mean,0.666666667,abnormal grip strength,MP:0001515
+Serpinb6b,Forelimb grip strength normalised against body weight,0.666666667,abnormal grip strength,MP:0001515
+Serpinb6b,Platelet count,1,thrombocytopenia,MP:0003179
+Serpinb6b,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Serpinb6b,Locomotor activity,1,decreased exploration in new environment,MP:0001417
+Slc22a23,Forelimb grip strength measurement mean,1,decreased grip strength,MP:0010053
+Slc22a23,Forelimb and hindlimb grip strength measurement mean,1,decreased grip strength,MP:0010053
+Slc22a23,Body Length,1,decreased body length,MP:0001258
+Lyz1,Forelimb and hindlimb grip strength measurement mean,1,decreased grip strength,MP:0010053
+Lyz1,Forelimb and hindlimb grip strength normalised against body weight,1,decreased grip strength,MP:0010053
+Lyz1,Aortic diameter (Dao),1,aorta stenosis,MP:0010463
+Lyz1,Area under glucose response curve,1,abnormal glucose tolerance,MP:0005291
+Lyz1,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Lyz1,Mean cell hemoglobin concentration,1,decreased mean corpuscular hemoglobin concentration,MP:0005642
+Lyz1,Red blood cell distribution width,1,decreased red blood cell distribution width,MP:0010068
+Lyz1,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Lyz1,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Srms,Forelimb and hindlimb grip strength measurement mean,1,decreased grip strength,MP:0010053
+Srms,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Srms,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Srms,Mean corpuscular hemoglobin,0,increased mean corpuscular hemoglobin,MP:0005561
+Srms,Mean cell hemoglobin concentration,0.5,abnormal mean corpuscular hemoglobin concentration,MP:0005640
+Srms,Red blood cell distribution width,1,decreased red blood cell distribution width,MP:0010068
+Srms,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Srms,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Ly6g6e,Forelimb and hindlimb grip strength measurement mean,0,increased grip strength,MP:0010052
+Ly6g6e,Body weight,0,increased body weight,MP:0001260
+Ly6g6e,Body weight before experiment,0,increased body weight,MP:0001260
+Ppp1r1a,Forelimb and hindlimb grip strength measurement mean,0.333333333,abnormal grip strength,MP:0001515
+Ppp1r1a,Fat/Body weight,1,decreased total body fat amount,MP:0010025
+Ppp1r1a,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+Ppp1r1a,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Ppp1r1a,Body Length,0,increased body length,MP:0001257
+Ldhb,Forelimb and hindlimb grip strength measurement mean,0,increased grip strength,MP:0010052
+Ldhb,Forelimb and hindlimb grip strength normalised against body weight,0,increased grip strength,MP:0010052
+Ldhb,LVPWs,0.333333333,abnormal heart left ventricle size,MP:0010578
+Ldhb,PQ,1,abnormal PQ interval,MP:0011918
+Ldhb,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Ldhb,Hematocrit,1,decreased hematocrit,MP:0000208
+Ldhb,Platelet count,1,thrombocytopenia,MP:0003179
+Ldhb,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+Ldhb,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Ldhb,Body weight,1,decreased body weight,MP:0001262
+Ldhb,Creatinine,0,increased circulating creatinine level,MP:0005553
+Ldhb,Total bilirubin,0.666666667,abnormal circulating bilirubin level,MP:0001569
+Ldhb,Calcium,0,increased circulating calcium level,MP:0000194
+Ldhb,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Ldhb,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Ldhb,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Ldhb,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Ldhb,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Ldhb,Body Length,0,increased body length,MP:0001257
+Tada2b,Forelimb grip strength normalised against body weight,1,decreased grip strength,MP:0010053
+Tada2b,Mean platelet volume,1,decreased mean platelet volume,MP:0008935
+Tada2b,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Tada2b,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Ccdc90b,Body weight,0,increased body weight,MP:0001260
+Ccdc90b,Body Weight,0,increased body weight,MP:0001260
+Ccdc90b,Hematocrit,0,increased hematocrit,MP:0002608
+Ccdc90b,Red blood cell distribution width,1,decreased red blood cell distribution width,MP:0010068
+Ccdc90b,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Ccdc90b,Calcium,0,increased circulating calcium level,MP:0000194
+Ccdc90b,Body weight before experiment,0,increased body weight,MP:0001260
+Ccdc90b,Body weight after experiment,0,increased body weight,MP:0001260
+Nhlh2,Body weight,0,increased body weight,MP:0001260
+Nhlh2,Body Weight,0,increased body weight,MP:0001260
+Nhlh2,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Nhlh2,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Nhlh2,Body weight before experiment,0,increased body weight,MP:0001260
+Ak1,Lean mass,0,increased lean body mass,MP:0003960
+Ak1,Lean/Body weight,0,increased lean body mass,MP:0003960
+Ak1,HR,1,decreased heart rate,MP:0005333
+Ak1,RR,0,abnormal RR interval,MP:0010504
+Ak1,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Ak1,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Ak1,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Ak1,Left paw withdrawal latency,1,decreased thermal nociceptive threshold,MP:0003998
+Slc16a12,Lean/Body weight,0.25,abnormal lean body mass,MP:0003959
+Slc16a12,Ferritin,0,abnormal iron homeostasis,MP:0005637
+1700006A11Rik,Lean/Body weight,0,increased lean body mass,MP:0003960
+1700006A11Rik,Platelet count,0.5,abnormal platelet cell number,MP:0011898
+Pcif1,Fat/Body weight,1,decreased total body fat amount,MP:0010025
+Pcif1,Total bilirubin,0,increased circulating bilirubin level,MP:0005344
+Pcif1,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Ppp1r9a,Fat/Body weight,1,decreased total body fat amount,MP:0010025
+Ppp1r9a,Initial response to glucose challenge,1,abnormal glucose tolerance,MP:0005291
+Ppp1r9a,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Flvcr2,Fat/Body weight,0.5,abnormal adipose tissue morphology,MP:0000003
+Flvcr2,Potassium,0,increased circulating potassium level,MP:0005627
+Flvcr2,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Flvcr2,Uric acid,0,increased blood uric acid level,MP:0008821
+Flvcr2,Magnesium,0,increased circulating magnesium level,MP:0010092
+Flvcr2,Body weight before experiment,0,increased body weight,MP:0001260
+Flvcr2,Respiratory Exchange Ratio,1,decreased respiratory quotient,MP:0010379
+Flvcr2,right paw withdrawal threshold size 5,0,increased thermal nociceptive threshold,MP:0001973
+Flvcr2,right paw withdrawal threshold size 7,0,increased thermal nociceptive threshold,MP:0001973
+Zcchc4,Fat/Body weight,1,decreased total body fat amount,MP:0010025
+Cnot11,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Cnot11,Alkaline phosphatase,0.5,abnormal circulating alkaline phosphatase level,MP:0000202
+Cnot11,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Cnot11,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Cnot11,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Cnot11,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Cnot11,Cholesterol ratio,0.666666667,abnormal cholesterol homeostasis,MP:0005278
+Cnot11,Body weight before experiment,1,decreased body weight,MP:0001262
+Ly6g6f,Body weight,1,decreased body weight,MP:0001262
+Ly6g6f,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Pah-e,End-Systolic Diameter,1,abnormal heart left ventricle morphology,MP:0003921
+Pah-e,End-Diastolic Diameter,1,abnormal heart left ventricle morphology,MP:0003921
+Pah-e,Ejection Fraction,0,increased cardiac muscle contractility,MP:0005599
+Pah-e,Fractional Shortening,0,increased cardiac muscle contractility,MP:0005599
+Pah-e,Cardiac Output,0,increased cardiac output,MP:0003394
+Pah-e,LVAWd,0,increased heart left ventricle size,MP:0010579
+Pah-e,LVIDd,1,abnormal heart left ventricle morphology,MP:0003921
+Pah-e,LVPWd,0,thick ventricular wall,MP:0002953
+Pah-e,LVIDs,1,abnormal heart left ventricle morphology,MP:0003921
+Pah-e,LVPWs,0,increased heart left ventricle size,MP:0010579
+Pah-e,Body Weight,1,decreased body weight,MP:0001262
+Pah-e,Initial response to glucose challenge,0,abnormal glucose tolerance,MP:0005291
+Pah-e,Area under glucose response curve,0,abnormal glucose tolerance,MP:0005291
+Pah-e,Sodium,0,increased circulating sodium level,MP:0005633
+Pah-e,Potassium,0,increased circulating potassium level,MP:0005627
+Pah-e,Chloride,0.25,abnormal circulating chloride level,MP:0003018
+Pah-e,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Pah-e,Creatinine,0,increased circulating creatinine level,MP:0005553
+Pah-e,Total protein,0,increased circulating total protein level,MP:0005568
+Pah-e,Albumin,0,increased circulating serum albumin level,MP:0002965
+Pah-e,Total bilirubin,0,increased circulating bilirubin level,MP:0005344
+Pah-e,Calcium,0,increased circulating calcium level,MP:0000194
+Pah-e,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Pah-e,Alkaline phosphatase,0,increased circulating alkaline phosphatase level,MP:0002968
+Pah-e,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Pah-e,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Pah-e,Triglycerides,0,increased circulating triglyceride level,MP:0001552
+Pah-e,Glucose,0,increased circulating glucose level,MP:0005559
+Pah-e,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Pah-e,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Pah-e,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Pah-e,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Pah-e,C-reactive protein,0,increased circulating C-reactive protein level,MP:0031059
+Pah-e,Magnesium,0,increased circulating magnesium level,MP:0010092
+Pah-e,Tail Length,1,short tail,MP:0000592
+Pah-e,Locomotor activity,1,decreased exploration in new environment,MP:0001417
+Pah-e,Body weight before experiment,1,decreased body weight,MP:0001262
+Pah-e,Body weight after experiment,1,decreased body weight,MP:0001262
+Scn7a,End-Systolic Diameter,1,abnormal heart left ventricle morphology,MP:0003921
+Scn7a,LVAWd,0,increased heart left ventricle size,MP:0010579
+Scn7a,LVPWd,0.25,abnormal heart ventricle wall thickness,MP:0020135
+Scn7a,HR,0,increased heart rate,MP:0002626
+Scn7a,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Scn7a,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Tsr3,End-Systolic Diameter,0,abnormal heart left ventricle morphology,MP:0003921
+Tsr3,End-Diastolic Diameter,0,abnormal heart left ventricle morphology,MP:0003921
+Tsr3,LVIDd,0,dilated heart left ventricle,MP:0002753
+Tsr3,LVPWd,1,thin ventricular wall,MP:0000280
+Tsr3,LVIDs,0,dilated heart left ventricle,MP:0002753
+Tsr3,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Tsr3,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Tsr3,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Tsr3,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Tsr3,Creatinine,0,increased circulating creatinine level,MP:0005553
+Tsr3,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Tsr3,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Zfp90,End-Systolic Diameter,0,abnormal heart left ventricle morphology,MP:0003921
+Zfp90,End-Diastolic Diameter,0,abnormal heart left ventricle morphology,MP:0003921
+Zfp90,LVIDd,0,dilated heart left ventricle,MP:0002753
+Sh3gl1,End-Systolic Diameter,1,abnormal heart left ventricle morphology,MP:0003921
+Sh3gl1,Cardiac Output,0,increased cardiac output,MP:0003394
+Sh3gl1,LVIDs,1,abnormal heart left ventricle morphology,MP:0003921
+Sh3gl1,Sodium,0,increased circulating sodium level,MP:0005633
+Sh3gl1,Chloride,0,increased circulating chloride level,MP:0003019
+Sh3gl1,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Sh3gl1,Total protein,0,increased circulating total protein level,MP:0005568
+Sh3gl1,Albumin,0,increased circulating serum albumin level,MP:0002965
+Sh3gl1,Calcium,0,increased circulating calcium level,MP:0000194
+Sh3gl1,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Sh3gl1,Alkaline phosphatase,0,increased circulating alkaline phosphatase level,MP:0002968
+Sh3gl1,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Sh3gl1,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Sh3gl1,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Sh3gl1,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Sh3gl1,C-reactive protein,0,increased circulating C-reactive protein level,MP:0031059
+Sh3gl1,Magnesium,0,increased circulating magnesium level,MP:0010092
+Csnk1a1,End-Systolic Diameter,0,abnormal heart left ventricle morphology,MP:0003921
+Csnk1a1,LVIDs,0,dilated heart left ventricle,MP:0002753
+Acat1,Stroke Volume,0,increased cardiac stroke volume,MP:0011951
+Acat1,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Acat1,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Acat1,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Acat1,Sodium,1,decreased circulating sodium level,MP:0005634
+Acat1,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Acat1,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Acat1,Alkaline phosphatase,0,increased circulating alkaline phosphatase level,MP:0002968
+Acat1,Triglycerides,0,increased circulating triglyceride level,MP:0001552
+Acat1,Glucose,0,increased circulating glucose level,MP:0005559
+Acat1,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Acat1,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Acat1,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Per2 VL-GG,Stroke Volume,0.333333333,abnormal cardiac stroke volume,MP:0000304
+Per2 VL-GG,Fractional Shortening,0,increased cardiac muscle contractility,MP:0005599
+Per2 VL-GG,Cardiac Output,0,increased cardiac output,MP:0003394
+Per2 VL-GG,LVIDs,1,abnormal heart left ventricle morphology,MP:0003921
+Per2 VL-GG,Mean platelet volume,1,decreased mean platelet volume,MP:0008935
+Per2 VL-GG,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Elmo2,Ejection Fraction,1,decreased cardiac muscle contractility,MP:0005140
+Elmo2,Fractional Shortening,1,decreased cardiac muscle contractility,MP:0005140
+Elmo2,Cardiac Output,1,decreased cardiac output,MP:0003393
+Elmo2,LVPWd,0.75,abnormal heart ventricle wall thickness,MP:0020135
+Elmo2,LVPWs,0.666666667,abnormal heart left ventricle size,MP:0010578
+Elmo2,Fasted blood glucose concentration,0,increased fasting circulating glucose level,MP:0013279
+Elmo2,Initial response to glucose challenge,1,abnormal glucose tolerance,MP:0005291
+Elmo2,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+Elmo2,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+Elmo2,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Elmo2,Magnesium,0,increased circulating magnesium level,MP:0010092
+Rarb,LVAWd,1,decreased heart left ventricle size,MP:0010580
+Rarb,Hematocrit,1,decreased hematocrit,MP:0000208
+Rarb,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Rarb,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Slc44a1,LVAWd,0,increased heart left ventricle size,MP:0010579
+Slc44a1,LVAWs,0,thick ventricular wall,MP:0002953
+Slc44a1,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Prmt3,LVPWd,1,thin ventricular wall,MP:0000280
+Prmt3,LVAWs,1,thin ventricular wall,MP:0000280
+Prmt3,Total protein,1,decreased circulating total protein level,MP:0005567
+Ccdc12,LVPWd,1,thin ventricular wall,MP:0000280
+Ccdc12,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Sqor,LVPWd,1,thin ventricular wall,MP:0000280
+Sqor,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Kcns1,LVAWs,1,thin ventricular wall,MP:0000280
+Kcns1,LVPWs,0.5,abnormal heart left ventricle size,MP:0010578
+Kcns1,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Kcns1,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Kcns1,Glucose,1,decreased circulating glucose level,MP:0005560
+Kcns1,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Kcns1,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Kcns1,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Kcns1,Uric acid,0,increased blood uric acid level,MP:0008821
+Slc5a6,LVAWs,0,thick ventricular wall,MP:0002953
+Slc5a6,HR,0,increased heart rate,MP:0002626
+Cpox,LVAWs,0,thick ventricular wall,MP:0002953
+Cpox,Albumin,0.666666667,abnormal circulating serum albumin level,MP:0000199
+Cpox,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Hadhb,LVPWs,1,decreased heart left ventricle size,MP:0010580
+Hadhb,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Tmprss11g,HR,1,decreased heart rate,MP:0005333
+Tmprss11g,Mean platelet volume,1,decreased mean platelet volume,MP:0008935
+Tmprss11g,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Tmprss11g,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Krtdap,HR,0,increased heart rate,MP:0002626
+Krtdap,Body Length,0,increased body length,MP:0001257
+Stk17b,HR,0,increased heart rate,MP:0002626
+Stk17b,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Stk17b,Platelet count,1,thrombocytopenia,MP:0003179
+Stk17b,Chloride,0,increased circulating chloride level,MP:0003019
+Stk17b,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Stk17b,right paw withdrawal latency,1,decreased thermal nociceptive threshold,MP:0003998
+Stk17b,right paw withdrawal threshold size 4,1,decreased thermal nociceptive threshold,MP:0003998
+Stk17b,right paw withdrawal threshold size 6,1,decreased thermal nociceptive threshold,MP:0003998
+Dpf2,HR,0,increased heart rate,MP:0002626
+Dpf2,QTc Dispersion,0.5,abnormal heart rate,MP:0001629
+Sox8,Aortic diameter (Dao),1,aorta stenosis,MP:0010463
+Sox8,Body weight,1,decreased body weight,MP:0001262
+Sox8,Total protein,1,decreased circulating total protein level,MP:0005567
+Sox8,Uric acid,1,decreased blood uric acid level,MP:0008822
+Mtrr,Aortic diameter (Dao),1,aorta stenosis,MP:0010463
+Mtrr,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Mtrr,Tail Length,0,abnormal tail length,MP:0011999
+Acsl3,Aortic diameter (Dao),1,aorta stenosis,MP:0010463
+Acsl3,Initial response to glucose challenge,1,abnormal glucose tolerance,MP:0005291
+Acsl3,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Acsl3,Hematocrit,0.5,abnormal hematocrit,MP:0002596
+Acsl3,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Acsl3,Mean cell hemoglobin concentration,1,decreased mean corpuscular hemoglobin concentration,MP:0005642
+Acsl3,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Acsl3,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Nptx1,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Nptx1,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Dcaf15,HR,0,increased heart rate,MP:0002626
+Dcaf15,RR,1,abnormal RR interval,MP:0010504
+Dcaf15,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Dcaf15,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Fam167a,HR,0,increased heart rate,MP:0002626
+Fam167a,RR,1,abnormal RR interval,MP:0010504
+Pdia2,CV,0,cardiovascular system phenotype,MP:0005385
+Pdia2,HRV,0,increased heart rate variability,MP:0003928
+Pdia2,QTc,0.5,abnormal QT interval,MP:0003899
+Pdia2,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Pdia2,Total protein,1,decreased circulating total protein level,MP:0005567
+Pdia2,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Pdia2,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Pdia2,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Pdia2,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Pdia2,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Pdia2,Uric acid,1,decreased blood uric acid level,MP:0008822
+Pdia2,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Pdia2,Body Length,1,decreased body length,MP:0001258
+Mzt1,CV,0.666666667,cardiovascular system phenotype,MP:0005385
+Mzt1,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Grin1,PQ,1,abnormal PQ interval,MP:0011918
+Grin1,PR,1,abnormal PR interval,MP:0003901
+Grin1,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Nlrp3,PR,0,abnormal PR interval,MP:0003901
+Nlrp3,Locomotor activity,0,increased exploration in new environment,MP:0001415
+Nlrc4,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Nlrc4,Sodium,0,increased circulating sodium level,MP:0005633
+Abhd2,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Abhd2,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+Abhd2,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Abhd2,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Abhd2,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Abhd2,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Abhd2,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Abhd2,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Abhd2,Uric acid,0,increased blood uric acid level,MP:0008821
+Cd79b,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Cd79b,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Rab25,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Rab25,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Rab25,Hemoglobin,1,decreased hemoglobin content,MP:0002874
+Rab25,Hematocrit,1,decreased hematocrit,MP:0000208
+Rab25,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Rab25,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Rab25,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Rab25,Respiratory Exchange Ratio,0,increased respiratory quotient,MP:0010378
+Ccne1,pNN50(6>ms),0.857142857,abnormal heartbeat,MP:0004085
+Ccne1,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Zbtb16,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Tfeb,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Tfeb,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+Tfeb,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Tfeb,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Tfeb,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Tfeb,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Snw1,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Snw1,Sodium,1,decreased circulating sodium level,MP:0005634
+Snw1,Chloride,1,decreased circulating chloride level,MP:0003020
+Xylt2,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Xylt2,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Xylt2,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Xylt2,right paw withdrawal latency,1,decreased thermal nociceptive threshold,MP:0003998
+Dnajc3,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Dnajc3,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Dnajc3,Total protein,1,decreased circulating total protein level,MP:0005567
+Dnajc3,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Dnajc3,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Dnajc3,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Dnajc3,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Dnajc3,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Dnajc3,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Dnajc3,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Rab1b,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Rab1b,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Rab1b,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Rab1b,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Rab1b,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Slc29a2,pNN50(6>ms),1,abnormal heartbeat,MP:0004085
+Slc29a2,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Slc29a2,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Slc29a2,Hemoglobin,1,decreased hemoglobin content,MP:0002874
+Slc29a2,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Slc29a2,Platelet count,0,thrombocytosis,MP:0005505
+Slc29a2,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Slc29a2,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Slc29a2,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Slc29a2,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Gnpat,Body Weight,0,increased body weight,MP:0001260
+Gnpat,Fasted blood glucose concentration,0,increased fasting circulating glucose level,MP:0013279
+Gnpat,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Gnpat,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Pnpla7,Body Weight,1,decreased body weight,MP:0001262
+Pnpla7,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Pnpla7,Body weight after experiment,1,decreased body weight,MP:0001262
+Tox,Body Weight,1,decreased body weight,MP:0001262
+Tox,Creatinine,1,decreased circulating creatinine level,MP:0005554
+Tox,Cholesterol ratio,1,abnormal cholesterol homeostasis,MP:0005278
+Marf1,Body Weight,1,decreased body weight,MP:0001262
+Marf1,Mean corpuscular hemoglobin,0,increased mean corpuscular hemoglobin,MP:0005561
+Marf1,Body weight,1,decreased body weight,MP:0001262
+Marf1,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Marf1,Total bilirubin,0,increased circulating bilirubin level,MP:0005344
+Marf1,Alkaline phosphatase,0,increased circulating alkaline phosphatase level,MP:0002968
+Marf1,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Marf1,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Marf1,C-reactive protein,0,increased circulating C-reactive protein level,MP:0031059
+Marf1,Tail Length,1,short tail,MP:0000592
+Marf1,Respiratory Exchange Ratio,1,decreased respiratory quotient,MP:0010379
+Alyref,Body Weight,1,decreased body weight,MP:0001262
+Alyref,Calcium,1,decreased circulating calcium level,MP:0000195
+Alyref,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Alyref,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Rbm18,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Rbm18,Hemoglobin,1,decreased hemoglobin content,MP:0002874
+Rbm18,Mean corpuscular hemoglobin,1,decreased mean corpuscular hemoglobin,MP:0005562
+Rbm18,Mean cell hemoglobin concentration,1,decreased mean corpuscular hemoglobin concentration,MP:0005642
+Rbm18,Sodium,0,increased circulating sodium level,MP:0005633
+Rbm18,Chloride,1,decreased circulating chloride level,MP:0003020
+Npas4,Fasted blood glucose concentration,0,increased fasting circulating glucose level,MP:0013279
+Npas4,Area under glucose response curve,0,abnormal glucose tolerance,MP:0005291
+Npas4,Chloride,0,increased circulating chloride level,MP:0003019
+Npas4,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Npas4,Total protein,1,decreased circulating total protein level,MP:0005567
+Npas4,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Npas4,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Npas4,Tail Length,0,abnormal tail length,MP:0011999
+Drap1,Fasted blood glucose concentration,0,increased fasting circulating glucose level,MP:0013279
+Drap1,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+Drap1,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Gpr153,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Prmt2,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Prmt2,Hematocrit,0,increased hematocrit,MP:0002608
+Prmt2,Calcium,0,increased circulating calcium level,MP:0000194
+Prmt2,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Prmt2,Uric acid,0,increased blood uric acid level,MP:0008821
+Prmt2,Body weight after experiment,0.25,abnormal body weight,MP:0001259
+Prmt2,Rectal Temperature,0,increased body temperature,MP:0005533
+Mfsd11,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Mfsd11,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Mfsd11,Total bilirubin,0,increased circulating bilirubin level,MP:0005344
+Mfsd11,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Mfsd11,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+Mfsd11,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Rangap1,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Rangap1,Lactate dehydrogenase,0.5,abnormal lactate dehydrogenase level,MP:0002943
+Nr2c2ap,Fasted blood glucose concentration,1,decreased fasting circulating glucose level,MP:0013278
+Nr2c2ap,Potassium,1,decreased circulating potassium level,MP:0005628
+Nr2c2ap,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Nr2c2ap,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Nr2c2ap,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Nr2c2ap,Rectal Temperature,0,increased body temperature,MP:0005533
+Pdcd6,Initial response to glucose challenge,0,abnormal glucose tolerance,MP:0005291
+Pdcd6,Sodium,0,increased circulating sodium level,MP:0005633
+Pdcd6,Chloride,1,decreased circulating chloride level,MP:0003020
+Pdcd6,Triglycerides,0,increased circulating triglyceride level,MP:0001552
+Pdcd6,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Pdcd6,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Dlgap3,Initial response to glucose challenge,1,abnormal glucose tolerance,MP:0005291
+Dlgap3,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Dlgap3,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+Dlgap3,Sodium,1,decreased circulating sodium level,MP:0005634
+Dlgap3,Potassium,1,decreased circulating potassium level,MP:0005628
+Dlgap3,Chloride,1,decreased circulating chloride level,MP:0003020
+Dlgap3,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Dlgap3,Uric acid,0,increased blood uric acid level,MP:0008821
+Dlgap3,right paw withdrawal threshold size 5,1,decreased thermal nociceptive threshold,MP:0003998
+Dlgap3,right paw withdrawal threshold size 7,1,decreased thermal nociceptive threshold,MP:0003998
+Rpe65,Area under glucose response curve,0,abnormal glucose tolerance,MP:0005291
+Rpe65,White blood cell count,0,increased leukocyte cell number,MP:0000218
+Rpe65,Mean cell volume,1,decreased mean corpuscular volume,MP:0002591
+Rpe65,Albumin,0,increased circulating serum albumin level,MP:0002965
+Rpe65,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Rpe65,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Cpne4,Area under glucose response curve,0,abnormal glucose tolerance,MP:0005291
+Cpne4,Mean cell volume,1,decreased mean corpuscular volume,MP:0002591
+Cpne4,Creatinine,1,decreased circulating creatinine level,MP:0005554
+Cpne4,Total protein,0,increased circulating total protein level,MP:0005568
+Cpne4,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Cpne4,Tail Length,1,short tail,MP:0000592
+Nlrc5,White blood cell count,0,increased leukocyte cell number,MP:0000218
+Nlrc5,Aspartate aminotransferase,1,decreased circulating aspartate transaminase level,MP:0005632
+Angpt4,White blood cell count,0,increased leukocyte cell number,MP:0000218
+Angpt4,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Angpt4,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Iba57,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Iba57,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Iba57,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Iba57,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Iba57,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Iba57,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Piezo2,White blood cell count,0.5,abnormal leukocyte cell number,MP:0000217
+Piezo2,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Piezo2,Mean cell hemoglobin concentration,1,decreased mean corpuscular hemoglobin concentration,MP:0005642
+Piezo2,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Piezo2,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Piezo2,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Piezo2,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Pyurf,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Pyurf,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Pyurf,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+Pyurf,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Pyurf,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Pyurf,LDL-cholesterol,0,increased circulating LDL cholesterol level,MP:0000182
+Nudt22,White blood cell count,0,increased leukocyte cell number,MP:0000218
+Nudt22,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+Nudt22,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Nudt22,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Nudt22,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Nudt22,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Nudt22,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+hIL2RG C421T,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+hIL2RG C421T,Red blood cell count,0.5,abnormal erythrocyte cell number,MP:0001586
+hIL2RG C421T,Hemoglobin,1,decreased hemoglobin content,MP:0002874
+hIL2RG C421T,Mean corpuscular hemoglobin,1,decreased mean corpuscular hemoglobin,MP:0005562
+hIL2RG C421T,Platelet count,0,thrombocytosis,MP:0005505
+hIL2RG C421T,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+hIL2RG C421T,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+hIL2RG C421T,Albumin,1,decreased circulating serum albumin level,MP:0005419
+hIL2RG C421T,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+hIL2RG C421T,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+hIL2RG C421T,Ferritin,0.5,abnormal iron homeostasis,MP:0005637
+hIL2RG C421T,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Timm17a,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Timm17a,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Timm17a,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Timm17a,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Tor1aip2,White blood cell count,1,decreased leukocyte cell number,MP:0000221
+Tor1aip2,Platelet count,0.5,abnormal platelet cell number,MP:0011898
+Tor1aip2,Triglycerides,0,increased circulating triglyceride level,MP:0001552
+Tor1aip2,C-reactive protein,1,decreased circulating C-reactive protein level,MP:0031060
+Tor1aip2,left paw withdrawal threshold size 4,0,increased thermal nociceptive threshold,MP:0001973
+hIL2RG G677A,White blood cell count,0,increased leukocyte cell number,MP:0000218
+hIL2RG G677A,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+hIL2RG G677A,Mean corpuscular hemoglobin,1,decreased mean corpuscular hemoglobin,MP:0005562
+hIL2RG G677A,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+hIL2RG G677A,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+hIL2RG G677A,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Pdia6,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Pdia6,Platelet count,0,thrombocytosis,MP:0005505
+Pdia6,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Pdia6,Glucose,1,decreased circulating glucose level,MP:0005560
+Pdia6,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Pdia6,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Slc12a4,Red blood cell count,0,increased erythrocyte cell number,MP:0003131
+Slc12a4,Hematocrit,0,increased hematocrit,MP:0002608
+Slc12a4,Mean cell volume,1,decreased mean corpuscular volume,MP:0002591
+Slc12a4,Mean corpuscular hemoglobin,0,increased mean corpuscular hemoglobin,MP:0005561
+Slc12a4,Platelet count,1,thrombocytopenia,MP:0003179
+Slc12a4,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+Slc12a4,Red blood cell distribution width,1,decreased red blood cell distribution width,MP:0010068
+Slc12a4,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+Slc12a4,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Slc12a4,Calcium,0,increased circulating calcium level,MP:0000194
+Kcnj4,Red blood cell count,1,decreased erythrocyte cell number,MP:0002875
+Kcnj4,Hemoglobin,1,decreased hemoglobin content,MP:0002874
+Kcnj4,Hematocrit,1,decreased hematocrit,MP:0000208
+Kcnj4,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Kcnj4,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+Kcnj4,Potassium,0,increased circulating potassium level,MP:0005627
+Kcnj4,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Kcnj4,Alkaline phosphatase,0.666666667,abnormal circulating alkaline phosphatase level,MP:0000202
+Kcnj4,Glucose,1,decreased circulating glucose level,MP:0005560
+Kcnj4,Uric acid,0,increased blood uric acid level,MP:0008821
+Kcnj4,Rectal Temperature,1,decreased body temperature,MP:0005534
+Gid4,Red blood cell count,0,increased erythrocyte cell number,MP:0003131
+Gid4,Hematocrit,0,increased hematocrit,MP:0002608
+Gid4,Red blood cell distribution width,1,decreased red blood cell distribution width,MP:0010068
+Gid4,Calcium,0,increased circulating calcium level,MP:0000194
+Rora,Hemoglobin,1,decreased hemoglobin content,MP:0002874
+Rora,Mean corpuscular hemoglobin,1,decreased mean corpuscular hemoglobin,MP:0005562
+Rora,Mean cell hemoglobin concentration,1,decreased mean corpuscular hemoglobin concentration,MP:0005642
+Rora,Potassium,0,increased circulating potassium level,MP:0005627
+Rora,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Rora,Glucose,1,decreased circulating glucose level,MP:0005560
+Rora,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Rora,Uric acid,0,increased blood uric acid level,MP:0008821
+Rora,Magnesium,0,increased circulating magnesium level,MP:0010092
+Gpr45,Hemoglobin,0,increased hemoglobin content,MP:0005564
+Cntn5,Hematocrit,1,decreased hematocrit,MP:0000208
+Cntn5,Creatinine,1,decreased circulating creatinine level,MP:0005554
+Cntn5,Locomotor activity,0,increased exploration in new environment,MP:0001415
+Dlg4,Hematocrit,0.5,abnormal hematocrit,MP:0002596
+Dlg4,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Dlg4,Calcium,0,increased circulating calcium level,MP:0000194
+Dlg4,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Dlg4,C-reactive protein,1,decreased circulating C-reactive protein level,MP:0031060
+Dlg4,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Dlg4,Locomotor activity,1,decreased exploration in new environment,MP:0001417
+Acat2,Hematocrit,0,increased hematocrit,MP:0002608
+Brip1,Hematocrit,0,increased hematocrit,MP:0002608
+Brip1,Mean corpuscular hemoglobin,1,decreased mean corpuscular hemoglobin,MP:0005562
+Brip1,Mean cell hemoglobin concentration,0.8,abnormal mean corpuscular hemoglobin concentration,MP:0005640
+Brip1,Mean platelet volume,1,decreased mean platelet volume,MP:0008935
+Brip1,Aspartate aminotransferase,1,decreased circulating aspartate transaminase level,MP:0005632
+Brip1,Cholesterol ratio,1,abnormal cholesterol homeostasis,MP:0005278
+Brip1,Body weight before experiment,1,decreased body weight,MP:0001262
+Adgra3,Mean cell volume,1,decreased mean corpuscular volume,MP:0002591
+Coro2b,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Coro2b,Mean cell hemoglobin concentration,1,decreased mean corpuscular hemoglobin concentration,MP:0005642
+Coro2b,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Coro2b,Body weight,1,decreased body weight,MP:0001262
+Coro2b,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Myh10,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Myh10,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+Casp8,Mean cell volume,1,decreased mean corpuscular volume,MP:0002591
+Casp8,Tail Length,0,abnormal tail length,MP:0011999
+Slc25a1,Mean cell volume,0,increased mean corpuscular volume,MP:0002590
+Slc25a1,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Slc25a1,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Slc25a1,Calcium,1,decreased circulating calcium level,MP:0000195
+Slc25a1,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Slc25a1,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Slc25a1,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Slc25a1,right paw withdrawal threshold size 4,0,increased thermal nociceptive threshold,MP:0001973
+Slc25a1,right paw withdrawal threshold size 6,0,increased thermal nociceptive threshold,MP:0001973
+Luc7l2,Mean corpuscular hemoglobin,0,increased mean corpuscular hemoglobin,MP:0005561
+Luc7l2,Mean cell hemoglobin concentration,0,increased mean corpuscular hemoglobin concentration,MP:0005641
+Luc7l2,Basophil differential count,0,increased basophil cell number,MP:0002606
+Luc7l2,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Gnb1,Platelet count,1,thrombocytopenia,MP:0003179
+Gnb1,Potassium,0,increased circulating potassium level,MP:0005627
+Gnb1,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Gnb1,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Ikzf1,Platelet count,0,thrombocytosis,MP:0005505
+Ikzf1,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Ikzf1,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Hadh,Platelet count,0,thrombocytosis,MP:0005505
+Hadh,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Hadh,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Aplp1,Mean platelet volume,0.666666667,abnormal platelet volume,MP:0002586
+Aplp1,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Aplp1,Sodium,0,increased circulating sodium level,MP:0005633
+Aplp1,Chloride,0,increased circulating chloride level,MP:0003019
+Aplp1,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Aplp1,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Txndc5,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+Txndc5,Body weight,1,decreased body weight,MP:0001262
+Txndc5,Glucose,1,decreased circulating glucose level,MP:0005560
+Txndc5,Body Length,1,decreased body length,MP:0001258
+Slc30a10,Mean platelet volume,0,increased mean platelet volume,MP:0002599
+Slc30a10,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Slc30a10,Body weight,0.75,abnormal body weight,MP:0001259
+Slc30a10,Uric acid,1,decreased blood uric acid level,MP:0008822
+Spns2,Mean platelet volume,1,decreased mean platelet volume,MP:0008935
+Slc27a1,Red blood cell distribution width,0.5,abnormal red blood cell distribution width,MP:0010066
+Cnih4,Red blood cell distribution width,1,decreased red blood cell distribution width,MP:0010068
+Cnih4,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Cnih4,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Cnih4,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Cth,Red blood cell distribution width,0,increased red blood cell distribution width,MP:0010067
+Cth,Creatinine,1,decreased circulating creatinine level,MP:0005554
+Cth,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Cth,left paw withdrawal threshold size 7,1,decreased thermal nociceptive threshold,MP:0003998
+Crtc2,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Crtc2,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Crtc2,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Crtc2,Glucose,1,decreased circulating glucose level,MP:0005560
+Slc11a1,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Slc11a1,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Slc11a1,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Slc11a1,Total bilirubin,1,decreased circulating bilirubin level,MP:0005635
+Slc11a1,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Dnlz,Neutrophil differential count,0.75,abnormal neutrophil cell number,MP:0012440
+Dnlz,Lymphocyte differential count,0.25,abnormal lymphocyte cell number,MP:0000717
+Dnlz,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Dnlz,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Dnlz,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Dnlz,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Dnlz,Cholesterol ratio,1,abnormal cholesterol homeostasis,MP:0005278
+Slc17a9,Neutrophil differential count,1,decreased neutrophil cell number,MP:0000222
+Slc17a9,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Slc17a9,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Slc17a9,Sodium,0,increased circulating sodium level,MP:0005633
+Slc17a9,Potassium,0,increased circulating potassium level,MP:0005627
+Slc17a9,Chloride,0,increased circulating chloride level,MP:0003019
+Slc17a9,C-reactive protein,1,decreased circulating C-reactive protein level,MP:0031060
+Per3,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+sucnr1,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+sucnr1,Respiratory Exchange Ratio,0,increased respiratory quotient,MP:0010378
+Rpl11,Neutrophil differential count,0,increased neutrophil cell number,MP:0000219
+Rpl11,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Rpl11,Potassium,0,increased circulating potassium level,MP:0005627
+Rpl11,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Rrnad1,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Rrnad1,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Rrnad1,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Rrnad1,Basophil differential count,0,increased basophil cell number,MP:0002606
+Rrnad1,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Rrnad1,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Rrnad1,Glucose,0,increased circulating glucose level,MP:0005559
+Rrnad1,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Rrnad1,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Spns1,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Spns1,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Erp29,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Erp29,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Rnf219,Lymphocyte differential count,1,decreased lymphocyte cell number,MP:0005016
+Rnf219,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Ddx20,Lymphocyte differential count,0,increased lymphocyte cell number,MP:0005013
+Ddx20,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Ddx20,Eosinophil differential count,1,decreased eosinophil cell number,MP:0005012
+Ddx20,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Egr3,Lymphocyte differential count,0.5,abnormal lymphocyte cell number,MP:0000717
+Egr3,Total protein,0,increased circulating total protein level,MP:0005568
+Egr3,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Egr3,right paw withdrawal threshold size 5,0,increased thermal nociceptive threshold,MP:0001973
+Egr3,right paw withdrawal threshold size 7,0,increased thermal nociceptive threshold,MP:0001973
+Pnliprp2,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Dock5,Monocyte differential count,1,decreased monocyte cell number,MP:0000223
+Dock5,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Dock5,Creatinine,0,increased circulating creatinine level,MP:0005553
+Dock5,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Dock5,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Dock5,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Otud6b,Monocyte differential count,0,increased monocyte cell number,MP:0000220
+Otud6b,Potassium,0,increased circulating potassium level,MP:0005627
+Otud6b,Creatinine,0,increased circulating creatinine level,MP:0005553
+Otud6b,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Otud6b,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Otud6b,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Otud6b,Glucose,1,decreased circulating glucose level,MP:0005560
+Otud6b,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Otud6b,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Otud6b,Uric acid,0,increased blood uric acid level,MP:0008821
+Otud6b,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Otud6b,Magnesium,0,increased circulating magnesium level,MP:0010092
+Gtf2h1,Eosinophil differential count,0,increased eosinophil cell number,MP:0005011
+Gtf2h1,Large Unstained Cell (LUC) differential count,1,decreased large unstained cell number,MP:0012361
+Gtf2h1,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Gtf2h1,right paw withdrawal threshold size 4,0,increased thermal nociceptive threshold,MP:0001973
+Gtf2h1,right paw withdrawal threshold size 6,0,increased thermal nociceptive threshold,MP:0001973
+Slc36a2,Basophil differential count,0.5,abnormal basophil cell number,MP:0012442
+Slc36a2,Potassium,0,increased circulating potassium level,MP:0005627
+Slc36a2,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Slc36a2,Glucose,1,decreased circulating glucose level,MP:0005560
+Slc36a2,Uric acid,0,increased blood uric acid level,MP:0008821
+Slc36a2,Magnesium,0,increased circulating magnesium level,MP:0010092
+Atf1,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Atf1,Aspartate aminotransferase,1,decreased circulating aspartate transaminase level,MP:0005632
+Atf1,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+Atf1,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Arih1,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Acat3,Basophil differential count,1,decreased basophil cell number,MP:0002607
+Acat3,C-reactive protein,0,increased circulating C-reactive protein level,MP:0031059
+Fadd,Basophil differential count,0,increased basophil cell number,MP:0002606
+Fadd,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Slc10a7,Basophil differential count,0,increased basophil cell number,MP:0002606
+Slc10a7,C-reactive protein,1,decreased circulating C-reactive protein level,MP:0031060
+Herc4,Basophil differential count,0,increased basophil cell number,MP:0002606
+Herc4,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Herc4,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Pah 243Qmu,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Pah 243Qmu,Potassium,1,decreased circulating potassium level,MP:0005628
+Pah 243Qmu,Uric acid,0.5,abnormal blood uric acid level,MP:0008820
+Slc15a3,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Nedd4l,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Nedd4l,Calcium,0,increased circulating calcium level,MP:0000194
+Ezh2,Large Unstained Cell (LUC) differential count,0,increased large unstained cell number,MP:0012362
+Ankmy1,Body weight,0.8,abnormal body weight,MP:0001259
+Ankmy1,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Slc22a3,Body weight,0.5,abnormal body weight,MP:0001259
+Trpv4,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Hacl1,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Nmu,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Nmu,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Slc7a11,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Slc7a11,Calcium,1,decreased circulating calcium level,MP:0000195
+Slc7a11,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Slc7a11,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Slc7a11,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Mpp5,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Mpp5,Respiratory Exchange Ratio,0,increased respiratory quotient,MP:0010378
+Slco2a1,Sodium,1,decreased circulating sodium level,MP:0005634
+Slco2a1,Potassium,1,decreased circulating potassium level,MP:0005628
+Slco2a1,Chloride,1,decreased circulating chloride level,MP:0003020
+Slco2a1,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Slco2a1,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Slco2a1,Calcium,1,decreased circulating calcium level,MP:0000195
+Slco2a1,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Slco2a1,Aspartate aminotransferase,1,decreased circulating aspartate transaminase level,MP:0005632
+Slco2a1,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Slco2a1,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Slco2a1,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Slco2a1,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Slco2a1,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+Slco2a1,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Slco2a1,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Slco2a1,Uric acid,1,decreased blood uric acid level,MP:0008822
+Slco2a1,Ferritin,1,abnormal iron homeostasis,MP:0005637
+Slco2a1,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Mtf2,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Lhfpl5,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Mtx2,Sodium,1,decreased circulating sodium level,MP:0005634
+Mtx2,Body Length,0,increased body length,MP:0001257
+Slc36a3,Creatinine,0,increased circulating creatinine level,MP:0005553
+Slc36a3,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Slc36a3,Glucose,1,decreased circulating glucose level,MP:0005560
+Slc36a3,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Slc36a3,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Slc36a3,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Slc36a3,Uric acid,0,increased blood uric acid level,MP:0008821
+Slc36a3,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Slc36a3,Magnesium,0,increased circulating magnesium level,MP:0010092
+Trrap,Creatinine,1,decreased circulating creatinine level,MP:0005554
+Bdh1,left paw withdrawal threshold size 7,1,decreased thermal nociceptive threshold,MP:0003998
+Ppat,Sodium,0,increased circulating sodium level,MP:0005633
+Ppat,Chloride,1,decreased circulating chloride level,MP:0003020
+Ppat,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Ppat,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+Ppat,Uric acid,1,decreased blood uric acid level,MP:0008822
+Ppat,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Nprl2,C-reactive protein,1,decreased circulating C-reactive protein level,MP:0031060
+Nprl2,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Slc6a13,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Glud1,Creatine kinase,1,decreased circulating creatine kinase level,MP:0010091
+Gpr37l1,Sodium,1,decreased circulating sodium level,MP:0005634
+Gpr37l1,Triglycerides,0,increased circulating triglyceride level,MP:0001552
+Nufip1,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Taf5l,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Ice2,Aspartate aminotransferase,1,decreased circulating aspartate transaminase level,MP:0005632
+Ice2,Alanine aminotransferase,1,decreased circulating alanine transaminase level,MP:0002942
+Ice2,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Tango2,Creatinine,0,increased circulating creatinine level,MP:0005553
+Tango2,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Tango2,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Tango2,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Tango2,Glucose,0,increased circulating glucose level,MP:0005559
+Tango2,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Tango2,UIBC (unsaturated iron binding capacity),0,increased circulating unsaturated transferrin level,MP:0011896
+Tango2,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Tango2,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Wdr86,Free fatty acids,0,increased circulating free fatty acids level,MP:0001554
+Ndufaf1,Glucose,0,increased circulating glucose level,MP:0005559
+Arcn1,Lactate dehydrogenase,1,decreased lactate dehydrogenase level,MP:0005571
+Arcn1,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Arcn1,Uric acid,1,decreased blood uric acid level,MP:0008822
+Lypla1,right paw withdrawal latency,1,decreased thermal nociceptive threshold,MP:0003998
+Lypla1,right paw withdrawal threshold size 4,1,decreased thermal nociceptive threshold,MP:0003998
+Lypla1,right paw withdrawal threshold size 6,1,decreased thermal nociceptive threshold,MP:0003998
+Kank2,Sodium,1,decreased circulating sodium level,MP:0005634
+Kank2,Potassium,1,decreased circulating potassium level,MP:0005628
+Kank2,Chloride,1,decreased circulating chloride level,MP:0003020
+Kank2,Urea (Blood Urea Nitrogen - BUN),1,decreased blood urea nitrogen level,MP:0005566
+Kank2,Total protein,1,decreased circulating total protein level,MP:0005567
+Kank2,Albumin,1,decreased circulating serum albumin level,MP:0005419
+Kank2,Calcium,1,decreased circulating calcium level,MP:0000195
+Kank2,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Kank2,Alkaline phosphatase,1,decreased circulating alkaline phosphatase level,MP:0002966
+Kank2,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Kank2,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Kank2,Glucose,1,decreased circulating glucose level,MP:0005560
+Kank2,Alpha-amylase,1,decreased circulating amylase level,MP:0008805
+Kank2,UIBC (unsaturated iron binding capacity),1,decreased circulating unsaturated transferrin level,MP:0011897
+Kank2,LDL-cholesterol,1,decreased circulating LDL cholesterol level,MP:0000183
+Kank2,Free fatty acids,1,decreased circulating free fatty acids level,MP:0002702
+Kank2,C-reactive protein,1,decreased circulating C-reactive protein level,MP:0031060
+Fndc1,Sodium,0,increased circulating sodium level,MP:0005633
+Fndc1,Albumin,0,increased circulating serum albumin level,MP:0002965
+Fndc1,Calcium,0,increased circulating calcium level,MP:0000194
+Fndc1,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Fndc1,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Fndc1,Alkaline phosphatase,0,increased circulating alkaline phosphatase level,MP:0002968
+Fndc1,Total cholesterol,0,increased circulating cholesterol level,MP:0005178
+Fndc1,HDL-cholesterol,0,increased circulating HDL cholesterol level,MP:0001556
+Fndc1,Creatine kinase,0,increased circulating creatine kinase level,MP:0010090
+Fndc1,Uric acid,0,increased blood uric acid level,MP:0008821
+Fndc1,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Fndc1,C-reactive protein,0,increased circulating C-reactive protein level,MP:0031059
+Slc12a5,Sodium,0,increased circulating sodium level,MP:0005633
+Slc12a5,Urea (Blood Urea Nitrogen - BUN),0,increased blood urea nitrogen level,MP:0005565
+Slc12a5,Total protein,0,increased circulating total protein level,MP:0005568
+Slc12a5,Albumin,0,increased circulating serum albumin level,MP:0002965
+Slc12a5,Calcium,0,increased circulating calcium level,MP:0000194
+Slc12a5,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Cib2,Potassium,1,decreased circulating potassium level,MP:0005628
+Cib2,Chloride,1,decreased circulating chloride level,MP:0003020
+Cib2,Total bilirubin,0,increased circulating bilirubin level,MP:0005344
+Cib2,Calcium,0,increased circulating calcium level,MP:0000194
+Cib2,Phosphorus,0,increased circulating phosphate level,MP:0001566
+Cib2,Aspartate aminotransferase,0,increased circulating aspartate transaminase level,MP:0005343
+Cib2,Alanine aminotransferase,0,increased circulating alanine transaminase level,MP:0002941
+Cib2,Alkaline phosphatase,0,increased circulating alkaline phosphatase level,MP:0002968
+Cib2,Glucose,0,increased circulating glucose level,MP:0005559
+Cib2,Lactate dehydrogenase,0,increased lactate dehydrogenase level,MP:0002944
+Cib2,Alpha-amylase,0,increased circulating amylase level,MP:0008806
+Cib2,Ferritin,0,abnormal iron homeostasis,MP:0005637
+Cib2,C-reactive protein,0,increased circulating C-reactive protein level,MP:0031059
+Opn4,Creatinine,1,decreased circulating creatinine level,MP:0005554
+Erp27,Phosphorus,1,decreased circulating phosphate level,MP:0000198
+Erp27,Triglycerides,1,decreased circulating triglyceride level,MP:0002644
+Per2,Total cholesterol,1,decreased circulating cholesterol level,MP:0005179
+Per2,HDL-cholesterol,1,decreased circulating HDL cholesterol level,MP:0000186
+Per2,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Per2,Rectal Temperature,0,increased body temperature,MP:0005533
+Opa1,Magnesium,1,decreased circulating magnesium level,MP:0010093
+Opa1,Rectal Temperature,0,increased body temperature,MP:0005533
+miR-325,Cholesterol ratio,1,abnormal cholesterol homeostasis,MP:0005278
+miR-325,Locomotor activity,0,increased exploration in new environment,MP:0001415
+S100a11,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+Gpatch2l,Cholesterol ratio,0,abnormal cholesterol homeostasis,MP:0005278
+slc39a1,Tail Length,0,abnormal tail length,MP:0011999
+Nlrp6,Locomotor activity,0,increased exploration in new environment,MP:0001415
